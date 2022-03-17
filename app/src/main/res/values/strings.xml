@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beden Kitle İndeksi</string>
+    <string name="kiloTxt">Kilonuzu Giriniz :</string>
+    <string name="boyTxt">Boyunuzu Giriniz  :</string>
+    <string name="kiloEditTxt">Kilonuzu Buraya Giriniz</string>
+    <string name="boyEditTxt">Boyunuzu Buraya Giriniz</string>
+    <string name="buttonTxt">Hesaplamak İçin Basınız</string>
+    <string name="bedenİndeks">Beden İndeks Puanınız :</string>
+    <string name="bedenİndeksSonuc">Sonuç Hesaplanmadı</string>
+    <string name="bkiDurum">BKİ Durumu :</string>
+    <string name="bkiTehlike">Hesaplanmadı.</string>
+</resources>
